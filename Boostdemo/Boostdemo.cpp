@@ -110,13 +110,12 @@ void test()
     std::cout << "this is a test method" << std::endl;
 }
 
-<<<<<<< HEAD
+
 void testmaster()
 {
-    
-=======
+}
 void testdev()
 {
 
->>>>>>> dev
+
 }
