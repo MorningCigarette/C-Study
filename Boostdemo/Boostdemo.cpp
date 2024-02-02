@@ -100,7 +100,7 @@ int main(int argc, char* argv[])
     }
     catch (std::exception& e)
     {
-        std::cerr << "Exception: " << e.what() << "\n";
+        std::cerr << "Exception is: " << e.what() << "\n";
     }
 
     return 0;
