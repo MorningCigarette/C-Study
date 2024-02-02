@@ -105,3 +105,7 @@ int main(int argc, char* argv[])
 
     return 0;
 }
+void test()
+{
+    std::cout << "this is a test method" << std::endl;
+}
