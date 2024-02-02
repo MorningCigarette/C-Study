@@ -109,3 +109,8 @@ void test()
 {
     std::cout << "this is a test method" << std::endl;
 }
+
+void testmaster()
+{
+    
+}
